@@ -1,5 +1,8 @@
 ### Hi there 👋  
-
+- 🔭 I’m currently working on OWN-COMPANY 
+- 🌱 I’m currently learning REACT 
+- 💬 Ask me about :HOW MY WORKS  
+- 📫 How to reach me: anikdevnath03112000@gmail.com
 <!--
 **Anik-nath/Anik-nath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
