@@ -1,6 +1,6 @@
 ### Hi there 👋  
-- 🔭 I’m currently working on OWN-COMPANY 
-- 🌱 I’m currently learning REACT 
+- 🔭 I’m currently working on ... 
+- 🌱 I’m currently learning Redux 
 - 💬 Ask me about :HOW MY WORKS  
 - 📫 How to reach me: anikdevnath03112000@gmail.com
 <!--
