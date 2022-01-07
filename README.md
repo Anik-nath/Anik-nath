@@ -56,19 +56,19 @@ Here are some ideas to get you started:
 &nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 &nbsp;
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+&nbsp;
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />]()
 &nbsp;
 [<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />]()
 &nbsp;
 [<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" alt="heroku logo" title="Heroku" height="25" />]()
 &nbsp;
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+&nbsp;
 
 ## 🔍  Where to find me
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) (anikdevnath03112000@gmail.com)
-&nbsp;
 [<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/16790104/anik-deb-nath)
 &nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/anik-deb-nath-26aa22190/)
