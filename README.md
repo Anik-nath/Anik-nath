@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />]()
 &nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+&nbsp;
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+&nbsp;
 [<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />]()
 &nbsp;
 [<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" alt="Bootsrap CSS logo" title="Bootsrap CSS" height="25" />]()
