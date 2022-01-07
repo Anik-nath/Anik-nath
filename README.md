@@ -47,8 +47,9 @@ Here are some ideas to get you started:
 &nbsp;
 <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />
 &nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" alt="heroku logo" title="Heroku" height="25" />
 &nbsp;
+
 
 ## 🔍  Where to find me
 
