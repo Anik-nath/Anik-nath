@@ -79,4 +79,8 @@ Here are some ideas to get you started:
 
 
 ## Profile Hits
-![Prifile Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
+![Prifile Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Anik-nath}1212%2Fhit-counter)
+
+
+## Achived Github Trophy
+![Achived Github Trophy](https://github-profile-trophy.vercel.app/?username={Anik-nath})
