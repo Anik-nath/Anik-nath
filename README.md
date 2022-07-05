@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 &nbsp;
 [<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" alt="Bootsrap CSS logo" title="Bootsrap CSS" height="25" />]()
 &nbsp;
+[<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Nextjs logo" title="Bootsrap CSS" height="25" />]()
+&nbsp;
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 
 
