@@ -84,3 +84,4 @@ Here are some ideas to get you started:
 
 ## Achived Github Trophy
 ![Achived Github Trophy](https://github-profile-trophy.vercel.app/?username={Anik-nath})
+https://github-profile-trophy.vercel.app/?username={username}
