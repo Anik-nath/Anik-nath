@@ -83,4 +83,4 @@ Here are some ideas to get you started:
 
 
 ## Achived Github Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anik-nath&theme=onedark)](https://github.com/Anik-nath/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anik-nath&row=2&column=3)](https://github.com/Anik-nath/github-profile-trophy)
