@@ -73,6 +73,6 @@ Here are some ideas to get you started:
 
 [<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/16790104/anik-deb-nath)
 &nbsp;
-[<img src="[https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://twitter.com/aniknathdev)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://twitter.com/aniknathdev)
 &nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/anik-deb-nath-26aa22190/)
