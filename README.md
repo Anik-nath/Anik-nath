@@ -1,6 +1,6 @@
 ### Hi there 👋  
 - 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning Redux 
+- 🌱 I’m currently learning Mongoose 
 - 💬 Ask me about :HOW MY WORKS  
 - 📫 How to reach me: anikdevnath03112000@gmail.com
 <!--
